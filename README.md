@@ -16,4 +16,5 @@ How to run App:
   <li> create new python venv and activate <a href="https://docs.python.org/3/library/venv.html">This source code help you .</a> </li>
   <li> install requirements.txt depedency . </br>  <code> pip install -r requirements.txt
 </code> </li>
+<li> run main.py file </li>
 </ul> 
